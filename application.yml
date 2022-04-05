@@ -1,0 +1,10 @@
+
+my:
+  list:
+    values: One,Two,Three
+  greeting: "Greetings from the Configuration server"
+  
+db:
+  connection: connection-string-from-config-server
+  host: google.com
+  port: 4550
